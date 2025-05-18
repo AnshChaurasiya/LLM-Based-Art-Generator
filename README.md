@@ -96,10 +96,6 @@ npm start
 
 ---
 
-Let me know if you want me to:
-- Add deployment steps (Render, Vercel, etc.)
-- Embed screenshots
-- Turn this into a downloadable `README.md` file
-
-Want me to generate a GIF or demo image section too?
+### If you love this work
+### Buy me a Coffee ❤️
 
